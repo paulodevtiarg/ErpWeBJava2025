@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title th:text="${pageTitle} + ' - ElarisERP'">ElarisERP</title>
+     <link rel="icon"  href="assets/img/kaiadmin/favicon.ico"   type="image/x-icon"   />
+    
+    <!-- CSS Global -->
+   
+    <link th:href="@{/css/global.css}" rel="stylesheet">
+     <!-- CSS Files -->
+    <link rel="stylesheet" th:href="@{/assets/css/bootstrap.min.css}" />
+    <link rel="stylesheet" th:href="@{/assets/css/plugins.min.css}" />
+    <link rel="stylesheet" th:href="@{/assets/css/kaiadmin.min.css}" />
+    <!-- CSS Just for demo purpose, don't include it in your project -->
+    <link rel="stylesheet" th:href="@{/assets/css/demo.css}" />
+</head>
+<body>
+
+    <!-- JS Global -->
+    
+    <script th:src="@{/js/global.js}"></script>
+    <script th:src="@{/assets/js/plugin/webfont/webfont.min.js}"></script>
+      <!--   Core JS Files   -->
+    <script th:src="@{/assets/js/core/jquery-3.7.1.min.js}"></script>
+    <script th:src="@{/assets/js/core/popper.min.js}"></script>
+    <script th:src="@{/assets/js/core/bootstrap.min.js}"></script>
+
+    <!-- jQuery Scrollbar -->
+    <script src="assets/js/plugin/jquery-scrollbar/jquery.scrollbar.min.js"></script>
+
+    <!-- Chart JS -->
+    <script src="assets/js/plugin/chart.js/chart.min.js"></script>
+
+    <!-- jQuery Sparkline -->
+    <script src="assets/js/plugin/jquery.sparkline/jquery.sparkline.min.js"></script>
+
+    <!-- Chart Circle -->
+    <script src="assets/js/plugin/chart-circle/circles.min.js"></script>
+
+    <!-- Datatables -->
+    <script src="assets/js/plugin/datatables/datatables.min.js"></script>
+
+    <!-- Bootstrap Notify -->
+    <script src="assets/js/plugin/bootstrap-notify/bootstrap-notify.min.js"></script>
+
+    <!-- jQuery Vector Maps -->
+    <script src="assets/js/plugin/jsvectormap/jsvectormap.min.js"></script>
+    <script src="assets/js/plugin/jsvectormap/world.js"></script>
+
+    <!-- Sweet Alert -->
+    <script src="assets/js/plugin/sweetalert/sweetalert.min.js"></script>
+
+    <!-- Kaiadmin JS -->
+    <script src="assets/js/kaiadmin.min.js"></script>
+
+    <!-- Kaiadmin DEMO methods, don't include it in your project! -->
+    <script src="assets/js/setting-demo.js"></script>
+    <script src="assets/js/demo.js"></script>
+
+
+</body>
+</html>

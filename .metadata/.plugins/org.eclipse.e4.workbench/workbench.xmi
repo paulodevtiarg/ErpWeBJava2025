@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_c5iP8EYOEfCxA72Zh0Jtzw" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_c5iP8UYOEfCxA72Zh0Jtzw" bindingContexts="_c5nJBEYOEfCxA72Zh0Jtzw">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;index.html&quot; tooltip=&quot;ElarisERP/src/main/resources/templates/home/index.html&quot;>&#xA;&lt;persistable path=&quot;/ElarisERP/src/main/resources/templates/home/index.html&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;index.html&quot; tooltip=&quot;ElarisERP/src/main/resources/templates/usuarios/index.html&quot;>&#xA;&lt;persistable path=&quot;/ElarisERP/src/main/resources/templates/usuarios/index.html&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;layout.html&quot; tooltip=&quot;ElarisERP/src/main/resources/templates/layout/layout.html&quot;>&#xA;&lt;persistable path=&quot;/ElarisERP/src/main/resources/templates/layout/layout.html&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.genericeditor.GenericEditor&quot; name=&quot;global.js&quot; tooltip=&quot;ElarisERP/src/main/resources/static/js/global.js&quot;>&#xA;&lt;persistable path=&quot;/ElarisERP/src/main/resources/static/js/global.js&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.css.core.csssource.source&quot; name=&quot;global.css&quot; tooltip=&quot;ElarisERP/src/main/resources/static/css/global.css&quot;>&#xA;&lt;persistable path=&quot;/ElarisERP/src/main/resources/static/css/global.css&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;HomeController.java&quot; tooltip=&quot;ElarisERP/src/main/java/br/com/elariserp/controller/HomeController.java&quot;>&#xA;&lt;persistable path=&quot;/ElarisERP/src/main/java/br/com/elariserp/controller/HomeController.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;SpringBootPropertyEditor&quot; name=&quot;application.properties&quot; tooltip=&quot;ElarisERP/src/main/resources/application.properties&quot;>&#xA;&lt;persistable path=&quot;/ElarisERP/src/main/resources/application.properties&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.genericeditor.GenericEditor&quot; name=&quot;global.js&quot; tooltip=&quot;ElarisERP/src/main/resources/static/js/global.js&quot;>&#xA;&lt;persistable path=&quot;/ElarisERP/src/main/resources/static/js/global.js&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;layout.html&quot; tooltip=&quot;ElarisERP/src/main/resources/templates/base/layout.html&quot;>&#xA;&lt;persistable path=&quot;/ElarisERP/src/main/resources/templates/base/layout.html&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;index2.html&quot; tooltip=&quot;ElarisERP/src/main/resources/templates/home/index2.html&quot;>&#xA;&lt;persistable path=&quot;/ElarisERP/src/main/resources/templates/home/index2.html&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;layout.html&quot; tooltip=&quot;ElarisERP/src/main/resources/templates/layout/layout.html&quot;>&#xA;&lt;persistable path=&quot;/ElarisERP/src/main/resources/templates/layout/layout.html&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;index.html&quot; tooltip=&quot;ElarisERP/src/main/resources/templates/home/index.html&quot;>&#xA;&lt;persistable path=&quot;/ElarisERP/src/main/resources/templates/home/index.html&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;index.html&quot; tooltip=&quot;ElarisERP/src/main/resources/templates/usuarios/index.html&quot;>&#xA;&lt;persistable path=&quot;/ElarisERP/src/main/resources/templates/usuarios/index.html&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.css.core.csssource.source&quot; name=&quot;global.css&quot; tooltip=&quot;ElarisERP/src/main/resources/static/css/global.css&quot;>&#xA;&lt;persistable path=&quot;/ElarisERP/src/main/resources/static/css/global.css&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;HomeController.java&quot; tooltip=&quot;ElarisERP/src/main/java/br/com/elariserp/controller/HomeController.java&quot;>&#xA;&lt;persistable path=&quot;/ElarisERP/src/main/java/br/com/elariserp/controller/HomeController.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;SpringBootPropertyEditor&quot; name=&quot;application.properties&quot; tooltip=&quot;ElarisERP/src/main/resources/application.properties&quot;>&#xA;&lt;persistable path=&quot;/ElarisERP/src/main/resources/application.properties&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_c5iP8UYOEfCxA72Zh0Jtzw" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_c5iP8kYOEfCxA72Zh0Jtzw" label="%trimmedwindow.label.eclipseSDK" x="301" y="84" width="1235" height="873">
     <persistedState key="coolBarVisible" value="true"/>
@@ -83,8 +83,9 @@
           <tags>persp.editorOnboardingCommand:Find Actions$$$Ctrl+3</tags>
           <tags>persp.editorOnboardingCommand:Show Key Assist$$$Shift+Ctrl+L</tags>
           <tags>persp.editorOnboardingCommand:New$$$Ctrl+N</tags>
-          <children xsi:type="basic:PartSashContainer" xmi:id="_c5iP9UYOEfCxA72Zh0Jtzw" selectedElement="_c5i3AkYOEfCxA72Zh0Jtzw" horizontal="true">
+          <children xsi:type="basic:PartSashContainer" xmi:id="_c5iP9UYOEfCxA72Zh0Jtzw" selectedElement="_c5iP9kYOEfCxA72Zh0Jtzw" horizontal="true">
             <children xsi:type="basic:PartStack" xmi:id="_c5iP9kYOEfCxA72Zh0Jtzw" elementId="topLeft" containerData="1984" selectedElement="_c5iP90YOEfCxA72Zh0Jtzw">
+              <tags>active</tags>
               <children xsi:type="advanced:Placeholder" xmi:id="_c5iP90YOEfCxA72Zh0Jtzw" elementId="org.eclipse.ui.navigator.ProjectExplorer" ref="_c5jeIUYOEfCxA72Zh0Jtzw" closeable="true">
                 <tags>View</tags>
                 <tags>categoryTag:General</tags>
@@ -130,8 +131,8 @@
                 <tags>categoryTag:Debug</tags>
               </children>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_c5i3AkYOEfCxA72Zh0Jtzw" containerData="8016" selectedElement="_c5i3A0YOEfCxA72Zh0Jtzw">
-              <children xsi:type="basic:PartSashContainer" xmi:id="_c5i3A0YOEfCxA72Zh0Jtzw" containerData="7137" selectedElement="_c5i3BEYOEfCxA72Zh0Jtzw" horizontal="true">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_c5i3AkYOEfCxA72Zh0Jtzw" containerData="8016" selectedElement="_c5i3CUYOEfCxA72Zh0Jtzw">
+              <children xsi:type="basic:PartSashContainer" xmi:id="_c5i3A0YOEfCxA72Zh0Jtzw" containerData="4824" selectedElement="_c5i3BEYOEfCxA72Zh0Jtzw" horizontal="true">
                 <children xsi:type="advanced:Placeholder" xmi:id="_c5i3BEYOEfCxA72Zh0Jtzw" elementId="org.eclipse.ui.editorss" containerData="8000" ref="_c5i5qkYOEfCxA72Zh0Jtzw"/>
                 <children xsi:type="basic:PartStack" xmi:id="_c5i3BUYOEfCxA72Zh0Jtzw" elementId="topRight" toBeRendered="false" containerData="2000">
                   <children xsi:type="advanced:Placeholder" xmi:id="_c5i3BkYOEfCxA72Zh0Jtzw" elementId="org.eclipse.ui.views.ContentOutline" toBeRendered="false" ref="_c5jeqUYOEfCxA72Zh0Jtzw" closeable="true">
@@ -148,7 +149,7 @@
                   </children>
                 </children>
               </children>
-              <children xsi:type="basic:PartStack" xmi:id="_c5i3CUYOEfCxA72Zh0Jtzw" elementId="bottomRight" containerData="2863" selectedElement="_c5i3E0YOEfCxA72Zh0Jtzw">
+              <children xsi:type="basic:PartStack" xmi:id="_c5i3CUYOEfCxA72Zh0Jtzw" elementId="bottomRight" containerData="5176" selectedElement="_c5i3E0YOEfCxA72Zh0Jtzw">
                 <tags>Oomph</tags>
                 <tags>Other</tags>
                 <children xsi:type="advanced:Placeholder" xmi:id="_c5i3CkYOEfCxA72Zh0Jtzw" elementId="org.eclipse.ui.views.ProblemView" ref="_c5jeckYOEfCxA72Zh0Jtzw" closeable="true">
@@ -256,10 +257,9 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_c5i5qkYOEfCxA72Zh0Jtzw" elementId="org.eclipse.ui.editorss" selectedElement="_c5i5q0YOEfCxA72Zh0Jtzw">
-      <children xsi:type="basic:PartStack" xmi:id="_c5i5q0YOEfCxA72Zh0Jtzw" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_c5i5zUYOEfCxA72Zh0Jtzw">
+      <children xsi:type="basic:PartStack" xmi:id="_c5i5q0YOEfCxA72Zh0Jtzw" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_A7KGQEYeEfC5LvFjz7gwGQ">
         <tags>EditorStack</tags>
         <tags>org.eclipse.e4.primaryDataStack</tags>
-        <tags>active</tags>
         <children xsi:type="basic:Part" xmi:id="_c5i5rEYOEfCxA72Zh0Jtzw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="application.properties" iconURI="platform:/plugin/org.springframework.tooling.boot.ls/icons/spring_obj.gif" closeable="true">
           <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;SpringBootPropertyEditor&quot; name=&quot;application.properties&quot; partName=&quot;application.properties&quot; title=&quot;application.properties&quot; tooltip=&quot;ElarisERP/src/main/resources/application.properties&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/ElarisERP/src/main/resources/application.properties&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;489&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
@@ -272,13 +272,29 @@
           <tags>removeOnHide</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
         </children>
-        <children xsi:type="basic:Part" xmi:id="_c5i5zUYOEfCxA72Zh0Jtzw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="index.html" iconURI="platform:/plugin/org.eclipse.wst.html.ui/icons/full/obj16/sourceEditor.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;index.html&quot; partName=&quot;index.html&quot; title=&quot;index.html&quot; tooltip=&quot;ElarisERP/src/main/resources/templates/home/index.html&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/ElarisERP/src/main/resources/templates/home/index.html&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;2780&quot; selectionTopPixel=&quot;503&quot;/>&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="_c5i5zUYOEfCxA72Zh0Jtzw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="indexold.html" iconURI="platform:/plugin/org.eclipse.wst.html.ui/icons/full/obj16/sourceEditor.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;indexold.html&quot; partName=&quot;indexold.html&quot; title=&quot;indexold.html&quot; tooltip=&quot;ElarisERP/src/main/resources/templates/home/indexold.html&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/ElarisERP/src/main/resources/templates/home/indexold.html&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;28587&quot; selectionTopPixel=&quot;10772&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.wst.html.core.htmlsource.source</tags>
-          <tags>active</tags>
-          <tags>activeOnClose</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_AJu_cEYVEfC5LvFjz7gwGQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="layout.html" iconURI="platform:/plugin/org.eclipse.wst.html.ui/icons/full/obj16/sourceEditor.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;layout.html&quot; partName=&quot;layout.html&quot; title=&quot;layout.html&quot; tooltip=&quot;ElarisERP/src/main/resources/templates/base/layout.html&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/ElarisERP/src/main/resources/templates/base/layout.html&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;37281&quot; selectionTopPixel=&quot;17098&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>org.eclipse.wst.html.core.htmlsource.source</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_90vokEYVEfC5LvFjz7gwGQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="global.js" iconURI="platform:/plugin/org.eclipse.ui.genericeditor/icons/full/obj16/generic_editor.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.ui.genericeditor.GenericEditor&quot; name=&quot;global.js&quot; partName=&quot;global.js&quot; title=&quot;global.js&quot; tooltip=&quot;ElarisERP/src/main/resources/static/js/global.js&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/ElarisERP/src/main/resources/static/js/global.js&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>org.eclipse.ui.genericeditor.GenericEditor</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_A7KGQEYeEfC5LvFjz7gwGQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="index.html" iconURI="platform:/plugin/org.eclipse.wst.html.ui/icons/full/obj16/sourceEditor.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;index.html&quot; partName=&quot;index.html&quot; title=&quot;index.html&quot; tooltip=&quot;ElarisERP/src/main/resources/templates/home/index.html&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/ElarisERP/src/main/resources/templates/home/index.html&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;647&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>org.eclipse.wst.html.core.htmlsource.source</tags>
         </children>
       </children>
     </sharedElements>
@@ -288,6 +304,8 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; currentWorkingSetName=&quot;Aggregate for window 1749561512578&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;>&#xA;&lt;lastRecentlyUsedFilters/>&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
+      <tags>active</tags>
+      <tags>activeOnClose</tags>
       <menus xmi:id="_c5jeIkYOEfCxA72Zh0Jtzw" elementId="org.eclipse.ui.navigator.ProjectExplorer">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -487,7 +505,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_c5l6ekYOEfCxA72Zh0Jtzw" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_kCWQQEYPEfCv3slaaU2sVg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_c5qNvEYOEfCxA72Zh0Jtzw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_6R8ssEYUEfC5LvFjz7gwGQ" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_c5qNvEYOEfCxA72Zh0Jtzw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_c5l6h0YOEfCxA72Zh0Jtzw" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -495,8 +513,8 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_c5l6iUYOEfCxA72Zh0Jtzw" elementId="org.eclipse.ui.workbench.edit">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_kCZTkEYPEfCv3slaaU2sVg" elementId="undo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/undo_edit.png" tooltip="Undo" command="_c5pmxEYOEfCxA72Zh0Jtzw"/>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_kCahsEYPEfCv3slaaU2sVg" elementId="redo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/redo_edit.png" tooltip="Redo" enabled="false" command="_c5qMSUYOEfCxA72Zh0Jtzw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_6R_I8EYUEfC5LvFjz7gwGQ" elementId="undo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/undo_edit.png" tooltip="Undo" command="_c5pmxEYOEfCxA72Zh0Jtzw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_6SCzUEYUEfC5LvFjz7gwGQ" elementId="redo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/redo_edit.png" tooltip="Redo" enabled="false" command="_c5qMSUYOEfCxA72Zh0Jtzw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_c5l6jUYOEfCxA72Zh0Jtzw" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -526,7 +544,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_c5mhj0YOEfCxA72Zh0Jtzw" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_kCcW4EYPEfCv3slaaU2sVg" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_c5qNX0YOEfCxA72Zh0Jtzw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_6SGdsEYUEfC5LvFjz7gwGQ" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_c5qNX0YOEfCxA72Zh0Jtzw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_c5mhm0YOEfCxA72Zh0Jtzw" elementId="org.eclipse.jdt.ui.CompilationUnitEditor" visible="false">
         <tags>Draggable</tags>

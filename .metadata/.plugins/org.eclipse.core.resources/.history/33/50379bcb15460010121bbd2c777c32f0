@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title th:text="${pageTitle} + ' - ElarisERP'">ElarisERP</title>
+    
+    <!-- CSS Global -->
+   
+    <link th:href="@{/css/global.css}" rel="stylesheet">
+     <!-- CSS Files -->
+    <link rel="stylesheet" th:href="@{/assets/css/bootstrap.min.css}" />
+    <link rel="stylesheet" th:href="@{/assets/css/plugins.min.css}" />
+    <link rel="stylesheet" th:href="@{/assets/css/kaiadmin.min.css}" />
+    <!-- CSS Just for demo purpose, don't include it in your project -->
+    <link rel="stylesheet" th:href="@{/assets/css/demo.css}" />
+</head>
