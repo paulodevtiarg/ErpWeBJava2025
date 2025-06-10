@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;ElarisERP/src/main/resources/static/global.css&apos; to &apos;css&apos;" description="Rename resource &apos;global.css&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/static/global.css" name="css" stamp="1749566209120" updateReferences="true"/>
+</session>

@@ -1,0 +1,5 @@
+package br.com.elariserp.controller;
+
+public class HomeController {
+
+}
