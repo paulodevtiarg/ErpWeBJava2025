@@ -15,4 +15,9 @@ public class HomeController {
 		public String home() {
 			return "home/index";
 		}
+		
+		@GetMapping("/index.html")
+		public String redirectIndex() {
+		    return "redirect:/";
+		}
 }

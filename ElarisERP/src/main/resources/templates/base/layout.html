@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml"
-      xmlns:th="http://www.thymeleaf.org">
+      xmlns:th="http://www.thymeleaf.org"
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout">
 <head th:fragment="comum-header(pageTitle)">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -26,7 +27,8 @@
           <!-- Logo Header -->
           <div class="logo-header" data-background-color="dark">
             <a href="index.html" class="logo">
-              <img   src="assets/img/kaiadmin/logo_light.svg" alt="navbar brand"    class="navbar-brand"   />
+             
+               <img th:src="@{/assets/img/kaiadmin/logo_light.png}"  alt="navbar brand" class="navbar-brand" height="20">
             </a>
             <div class="nav-toggle">
               <button class="btn btn-toggle toggle-sidebar">
@@ -322,8 +324,7 @@
             <!-- End Logo Header -->
           </div>
           <!-- Navbar Header -->
-          <nav
-            class="navbar navbar-header navbar-header-transparent navbar-expand-lg border-bottom"
+          <nav  class="navbar navbar-header navbar-header-transparent navbar-expand-lg border-bottom"
           >
             <div class="container-fluid">
               <nav
@@ -679,11 +680,10 @@
 
         
         <!-- Conteúdo Dinâmico -->
-    <main  th:fragment="conteudo" class="container">
-        
-        
-    
-     </main>
+ <!-- Por isso -->
+	 <main layout:fragment="content" class="container">
+        <!-- Conteúdo específico de cada página será inserido aqui -->
+    </main>
 
         <footer th:fragment="footer" class="footer">
           <div class="container-fluid d-flex justify-content-between">
@@ -911,7 +911,7 @@
     <!-- JS Global -->
     <div th:fragment="body-scripts">
 				   <script th:src="@{/js/global.js}"></script>
-				    <script th:src="@{/assets/js/plugin/webfont/webfont.min.js}"></script>
+				    
 				    <script th:src="@{assets/js/plugin/webfont/webfont.min.js}"></script>
 				      <!--   Core JS Files   -->
 				    <script src="assets/js/core/jquery-3.7.1.min.js"></script>
